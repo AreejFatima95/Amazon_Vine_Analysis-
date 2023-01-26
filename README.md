@@ -29,3 +29,6 @@ Summary: In your summary, state if there is any positivity bias for reviews in t
 
 Given the result above it doesn't seem like there is positivity bias in the Vine program as 52% of the paid reviews were 5 stars.
 where as 60% of the non paid reviews were five stars.
+
+<img width="845" alt="Screen Shot 2023-01-25 at 11 34 36 PM" src="https://user-images.githubusercontent.com/111954141/214759245-a60d0444-9d50-42e6-9a66-761e363621d8.png">
+
